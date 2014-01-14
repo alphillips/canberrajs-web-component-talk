@@ -1,19 +1,22 @@
 CanberraJS - Web Component and Polymer talk
 =============================
 
-## Web Components is an umbrella term for a set of draft W3C specs 
+## Web Components is an umbrella term for a set of draft W3C specs [W3C Intro to Web Components](http://www.w3.org/TR/components-intro/)
 
 1. **Templates**
+
 2. **HTML Imports**
+
 3. **Custom Elements**
+
 4. **Shadom DOM**
 
 
-[W3C Intro to Web Components](http://www.w3.org/TR/components-intro/)
+
 
 ## Templates
 
-New <template> element
+New **&lt;template&gt;** element
 
 DOM rather than String based template.
 
@@ -37,7 +40,7 @@ Import components
 
 ## Custom Elements
 
-New **<element>** element:
+New **&lt;element&gt;** element:
 
 Allows you to create new elements
 
