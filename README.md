@@ -113,13 +113,14 @@ Browser developers are already using it. e.g.  [HTML5 date input](http://www.wuf
 
 ## Browser support 
 
-Chromium canary - flags 
-Firefox some
-Safari – not yet
-Android – not yet
-Opera – not yet
-IE … guess?
+1. Chrome - some
+2. Firefox - some
+3. Safari – no
+4. Android – no
+5. Opera – no
+6. IE - lol
 
+[Check browser compatability](http://jonrimmer.github.io/are-we-componentized-yet/)
 
 # Enter Polymer
 Platform.js is a polyfill for Web Components. Polymer adds an *opiniated* framework on top of Platform.js
