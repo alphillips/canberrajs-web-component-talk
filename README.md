@@ -107,7 +107,7 @@ var root = host.createShadowRoot();
 root.innerHTML = '<div>spaghetti</div>';
 ```
 
-Browser developers are already using it. e.g. HTML5 date input 
+Browser developers are already using it. e.g.  [HTML5 date input](http://www.wufoo.com/html5/types/4-date.html)
 
 
 
