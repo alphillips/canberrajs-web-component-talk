@@ -43,7 +43,7 @@ document.body.appendChild(clone);
 Import components
 
 ```html
-<link rel=”imports” href=”cat-movies.html”>
+<link rel=”imports” href=”my-component.html”>
 ```
 
 Access the content using the **.import** property.
