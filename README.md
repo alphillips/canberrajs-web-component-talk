@@ -95,16 +95,21 @@ Elements can nest script, style and template elements.
 
 
 ## Shadow DOM
-Encapulates things in your element
+Encapulates things in your element. 
+Keep content in the normal DOM but the div spaghetti n the shadow DOM.
 
 *"Shadow DOM is an adjunct tree of DOM nodes. These shadow DOM subtrees can be associated with an element, but do not appear as child nodes of the element. Instead the subtrees form their own scope."* 
 Shadow DOM Spec
 
+```javascript
+var host = document.querySelector('#id');
+var root = host.createShadowRoot();
+root.innerHTML = '<div>spaghetti</div>';
+```
 
-Browser builders are already using it. e.g. HTML5 date input 
+Browser developers are already using it. e.g. HTML5 date input 
 
 
-<input type="date"/>
 
 ## Browser support 
 
