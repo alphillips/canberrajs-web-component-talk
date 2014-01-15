@@ -102,6 +102,8 @@ Shadow DOM renders visually (and to AT) but cant be accessed by other CSS or Jav
 Browser builders are already using it. e.g. HTML5 date input 
 
 
+<input type="date"/>
+
 ## Browser support 
 
 Chromium canary - flags 
