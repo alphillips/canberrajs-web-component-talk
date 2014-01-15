@@ -43,6 +43,11 @@ Import components
 <link rel=”imports” href=”cat-movies.html”>
 ```
 
+Access the content using the **.import** property.
+
+```javascript
+var content = document.querySelector('link[rel="import"]').import;
+```
 
 ## Custom Elements
 
