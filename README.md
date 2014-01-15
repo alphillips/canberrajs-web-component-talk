@@ -69,7 +69,8 @@ var mySpecialBtn = document.registerElement('my-special-btn');
 document.body.appendChild(new mySpecialBtn());
 ```
 
-There is also a callback API for the custom elements. For example when the element is inserted into the DOM.
+Lifecycle and callback API for custom elements. 
+For example when the element is inserted into the DOM.
 
 ```javascript
 mySpecialBtn.attachedCallback = function() {
@@ -96,7 +97,7 @@ Elements can nest script, style and template elements.
 
 ## Shadow DOM
 Encapsulates things in your element. 
-Keep content in the normal DOM but the div spaghetti n the shadow DOM.
+Keep content in the normal DOM but the div spaghetti in the shadow DOM.
 
 *"Shadow DOM is an adjunct tree of DOM nodes. These shadow DOM subtrees can be associated with an element, but do not appear as child nodes of the element. Instead the subtrees form their own scope."* 
 Shadow DOM Spec
