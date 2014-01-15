@@ -51,9 +51,9 @@ var content = document.querySelector('link[rel="import"]').import;
 
 ## Custom Elements
 
-New **&lt;element&gt;** element:
 
-Allows you to create new elements
+
+Allows you to create new elements using the new **&lt;element&gt;** element:
 
 ```html
 <element name=”my-special-btn”>
@@ -62,6 +62,20 @@ Allows you to create new elements
 <my-special-btn />
 ```
 
+or script using **document.registerElement** 
+
+```javascript
+var mySpecialBtn = document.registerElement('my-special-btn');
+document.body.appendChild(new mySpecialBtn());
+```
+
+There is also a callback API for the custom elements. For example when the element is inserted into the DOM.
+
+```javascript
+mySpecialBtn.attachedCallback = function() {
+  ...
+};
+```
 
 Just like Angular directives (for 'E')
 
