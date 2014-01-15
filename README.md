@@ -95,7 +95,7 @@ Elements can nest script, style and template elements.
 
 
 ## Shadow DOM
-Encapulates things in your element. 
+Encapsulates things in your element. 
 Keep content in the normal DOM but the div spaghetti n the shadow DOM.
 
 *"Shadow DOM is an adjunct tree of DOM nodes. These shadow DOM subtrees can be associated with an element, but do not appear as child nodes of the element. Instead the subtrees form their own scope."* 
@@ -124,7 +124,7 @@ Browser developers are already using it. e.g.  [HTML5 date input](http://www.wuf
 
 # Enter Polymer
 [Platform.js](https://github.com/Polymer/platform) is a polyfill for Web Components. 
-[Polymer](http://www.polymer-project.org/) adds an *opiniated* framework on top of Platform.js
+[Polymer](http://www.polymer-project.org/) adds an *opinionated * framework on top of Platform.js
 
 Best to show an [example](https://github.com/alphillips/geo-map).
 
