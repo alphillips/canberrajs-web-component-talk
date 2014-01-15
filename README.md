@@ -97,7 +97,8 @@ Elements can nest script, style and template elements.
 ## Shadow DOM
 Encapulates things in your element
 
-"Shadow DOM is an adjunct tree of DOM nodes. These shadow DOM subtrees can be associated with an element, but do not appear as child nodes of the element. Instead the subtrees form their own scope. " Spec
+*"Shadow DOM is an adjunct tree of DOM nodes. These shadow DOM subtrees can be associated with an element, but do not appear as child nodes of the element. Instead the subtrees form their own scope."* 
+Shadow DOM Spec
 
 
 Browser builders are already using it. e.g. HTML5 date input 
