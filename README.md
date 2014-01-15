@@ -123,9 +123,10 @@ Browser developers are already using it. e.g.  [HTML5 date input](http://www.wuf
 [Check browser compatability](http://jonrimmer.github.io/are-we-componentized-yet/)
 
 # Enter Polymer
-Platform.js is a polyfill for Web Components. Polymer adds an *opiniated* framework on top of Platform.js
+[Platform.js](https://github.com/Polymer/platform) is a polyfill for Web Components. 
+[Polymer](http://www.polymer-project.org/) adds an *opiniated* framework on top of Platform.js
 
-Best to show an example [link to Geo-map]
+Best to show an [example](https://github.com/alphillips/geo-map).
 
 
 
