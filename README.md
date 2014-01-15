@@ -79,11 +79,10 @@ mySpecialBtn.attachedCallback = function() {
 
 Just like Angular directives (for 'E')
 
-Must have a dash '-' in the name
+Note: Custom elements must have a dash '-' in the name.
 
-New methods, properties, life-cycle callbacks
 
-Nest script, style and template elements
+Elements can nest script, style and template elements.
 
 ```html
 <element name=”my-special-btn”>
