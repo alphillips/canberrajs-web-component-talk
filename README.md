@@ -77,7 +77,7 @@ mySpecialBtn.attachedCallback = function() {
 };
 ```
 
-Just like Angular directives (for 'E')
+Kind of like Angular directives (for 'E')
 
 Note: Custom elements must have a dash '-' in the name.
 
