@@ -133,6 +133,8 @@ Browser developers are already using it. e.g.  [HTML5 date input](http://www.wuf
 Best to show an [example](https://github.com/alphillips/geo-map).
 
 
+## Further reading
+Some great articles on [HTML5 Rocks](http://www.html5rocks.com/en/search?q=web+components)
 
 
 
