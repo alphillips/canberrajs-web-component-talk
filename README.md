@@ -116,6 +116,10 @@ Opera – not yet
 IE … guess?
 
 
+# Enter Polymer
+Platform.js is a polyfill for Web Components. Polymer adds an *opiniated* framework on top of Platform.js
+
+Best to show an example [link to Geo-map]
 
 
 
