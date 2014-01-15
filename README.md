@@ -1,7 +1,7 @@
 CanberraJS - Web Component and Polymer talk
 =============================
 
-![alt text](http://www.polymer-project.org/images/logos/webcomponents.png "Logo Title Text 1")
+![alt text](http://www.polymer-project.org/images/logos/webcomponents.png "Web Components")
 
 
 ## Web Components is an umbrella term for a set of draft [W3C specs](http://www.w3.org/TR/components-intro/)
